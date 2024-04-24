@@ -6,7 +6,7 @@ GaryBanking is NOT currently released and is being developed currently, stay tun
 
 ## Planned Features  
 Secure Transfer  
-Central Server Containing Customer Info  
+Multiple* Central Computers Containing Customer Info (Stored on ComputerCraft computers on your server)  
 Shop API  
 Account Editing  
 Unique UUID Per Account  
